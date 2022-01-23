@@ -6,9 +6,9 @@
 
 # Description:
 
-uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.
+uDork é um script escrito em Bash Scripting que usa técnicas avançadas de pesquisa do Google para obter informações confidenciais em arquivos ou diretórios, encontrar dispositivos IoT, detectar versões de aplicativos da Web e assim por diante.
 
-uDork does NOT make attacks against any server, it only uses predefined dorks and/or official lists from exploit-db.com (Google Hacking Database: https://www.exploit-db.com/google-hacking-database).
+O uDork NÃO faz ataques contra nenhum servidor, ele usa apenas dorks predefinidos e/ou listas oficiais do exploit-db.com (Google Hacking Database:https://www.exploit-db.com/google-hacking-database).
 
 # Download and install:
 ```
